@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nwitter/static/css/main.55bfdf87.chunk.css",
+    "main.js": "/Nwitter/static/js/main.50144452.chunk.js",
+    "main.js.map": "/Nwitter/static/js/main.50144452.chunk.js.map",
+    "runtime-main.js": "/Nwitter/static/js/runtime-main.fcdd3e8e.js",
+    "runtime-main.js.map": "/Nwitter/static/js/runtime-main.fcdd3e8e.js.map",
+    "static/js/2.f6148cf5.chunk.js": "/Nwitter/static/js/2.f6148cf5.chunk.js",
+    "static/js/2.f6148cf5.chunk.js.map": "/Nwitter/static/js/2.f6148cf5.chunk.js.map",
+    "index.html": "/Nwitter/index.html",
+    "precache-manifest.84b6ee489a2dd16c2a9d26873675d648.js": "/Nwitter/precache-manifest.84b6ee489a2dd16c2a9d26873675d648.js",
+    "service-worker.js": "/Nwitter/service-worker.js",
+    "static/css/main.55bfdf87.chunk.css.map": "/Nwitter/static/css/main.55bfdf87.chunk.css.map",
+    "static/js/2.f6148cf5.chunk.js.LICENSE.txt": "/Nwitter/static/js/2.f6148cf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcdd3e8e.js",
+    "static/js/2.f6148cf5.chunk.js",
+    "static/css/main.55bfdf87.chunk.css",
+    "static/js/main.50144452.chunk.js"
+  ]
+}
